@@ -1,2 +1,4 @@
-## Qt5
-Some pet projects
+## My Qt5 pet projects
+
+### Counter
+
