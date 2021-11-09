@@ -1,5 +1,6 @@
-# Description:
+## Description:
 Simple counter with GUI that can do following operations:
+
 `+ 1`
 
 `- 1`
@@ -9,5 +10,5 @@ Simple counter with GUI that can do following operations:
 `: 2`
 
 
-# Usage:
+## Usage:
 Just launch `Counter.exe`
