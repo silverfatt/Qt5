@@ -1,5 +1,5 @@
 ## Description:
-Simple counter with GUI that can do following operations:
+Simple counter with GUI that can perform following operations:
 
 `+ 1`
 
