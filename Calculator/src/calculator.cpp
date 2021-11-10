@@ -26,7 +26,7 @@ Calculator::Calculator(QWidget *parent)
     connect(ui->pushButton_percent,SIGNAL(clicked()), this, SLOT(unary()));     //%
     connect(ui->pushButton_down,SIGNAL(clicked()), this, SLOT(unary()));        //1/x
     connect(ui->pushButton_sqr,SIGNAL(clicked()), this, SLOT(unary()));         //x*x
-    connect(ui->pushButton_sqrt,SIGNAL(clicked()), this, SLOT(unary()));         //x*x
+    connect(ui->pushButton_sqrt,SIGNAL(clicked()), this, SLOT(unary()));         //sqrt(x)
 
     connect(ui->pushButton_ce,SIGNAL(clicked()), this, SLOT(clear()));          //CE
     connect(ui->pushButton_c,SIGNAL(clicked()), this, SLOT(clear()));           //C
