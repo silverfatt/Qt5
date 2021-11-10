@@ -10,3 +10,7 @@ User can also use his keyboard to insert numbers and operands.
 
 ## Usage:
 Launch NewCalc.exe
+
+
+## Source Code
+You can find it in `src` directory
